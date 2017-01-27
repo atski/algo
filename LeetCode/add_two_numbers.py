@@ -28,4 +28,3 @@ class Solution:
             curr.next = ListNode(1)
                             
         return result.next
-        
